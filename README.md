@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente, estou cursando Sistemas da Informação.<br><br>🌱No momento, estou aprendendo SQL e realizando um bootcamp em Data Analytics<br><br>❓ Gosto de conversar sobre tópicos relacionados a Ciência de Dados e Desenvolvimento Web.</p>
+<p align="left">🔭 Atualmente, estou cursando Sistemas da Informação.<br><br>🌱No momento, estou aprendendo SQL e realizando um bootcamp em Data Analytics.<br><br>❓ Gosto de conversar sobre tópicos relacionados a Ciência de Dados e Desenvolvimento Web.</p>
 
 ###
 
