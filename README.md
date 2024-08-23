@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Olá, me chamo Diego! Sou um aspirante a desenvolvedor focado em Data Science e Desenvolvimento Web👨‍💻</p>
+<p align="center">👨‍💻Olá, me chamo Diego! Sou um aspirante a desenvolvedor focado em Data Science e Desenvolvimento Web👨‍💻</p>
 
 ###
 
