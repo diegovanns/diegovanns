@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">👨‍💻Olá, me chamo Diego! Sou um aspirante a desenvolvedor focado em Data Science e Desenvolvimento Web👨‍💻</p>
+<p align="center">👨‍💻Olá, me chamo Diego! Sou um aspirante a desenvolvedor full-stack. 👨‍💻</p>
 
 ###
 
-<p align="left">🔭 Atualmente, estou cursando Sistemas da Informação.<br><br>🌱No momento, estou aprendendo SQL e realizando um bootcamp em Desenvolvimento Full-Stack.<br><br>❓ Gosto de conversar sobre tópicos relacionados a Ciência de Dados e Desenvolvimento Web.</p>
+<p align="left">🔭 Atualmente, estou cursando Sistemas da Informação.<br><br>🌱No momento, estou realizando um bootcamp em Desenvolvimento Full-Stack.<br><br>❓ Gosto de conversar sobre tópicos relacionados a Ciência de Dados e Desenvolvimento Web.</p>
 
 <h2 align="left">Techs</h2>
 
