@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 Atualmente, estou cursando Sistemas da Informação.<br><br>🌱No momento, estou realizando um bootcamp em Desenvolvimento Full-Stack.<br><br>❓ Gosto de conversar sobre tópicos relacionados a Ciência de Dados e Desenvolvimento Web.</p>
+<p align="left">🔭 Atualmente, estou cursando Sistemas da Informação.<br><br>❓ Gosto de conversar sobre tópicos relacionados a Ciência de Dados e Desenvolvimento Web.</p>
 
 <h2 align="left">Techs</h2>
 
